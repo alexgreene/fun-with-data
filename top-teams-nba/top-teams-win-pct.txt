@@ -1,0 +1,28 @@
+Top records in NBA history by winning pct.
+
+2016    Golden State Warriors   47-4    .922
+1996    Chicago Bulls   72-10   .878
+2016    San Antonio Spurs   44-8    .846
+1972    Los Angeles Lakers  69-13   .842
+1997    Chicago Bulls   69-13   .842
+1967    Philadelphia 76ers  68-13   .840
+1973    Boston Celtics  68-14   .829
+1986    Boston Celtics  67-15   .817
+1992    Chicago Bulls   67-15   .817
+2000    Los Angeles Lakers  67-15   .817
+2007    Dallas Mavericks    67-15   .817
+2015    Golden State Warriors   67-15   .817
+1947    Washington Capitols 49-11   .817
+1971    Milwaukee Bucks 66-16   .805
+2008    Boston Celtics  66-16   .805
+2009    Cleveland Cavaliers 66-16   .805
+2013    Miami Heat  66-16   .805
+1950    Syracuse Nationals  51-13   .797
+1983    Philadelphia 76ers  65-17   .793
+1987    Los Angeles Lakers  65-17   .793
+2009    Los Angeles Lakers  65-17   .793
+1960    Boston Celtics  59-16   .787
+1996    Seattle Supersonics 64-18   .781
+1997    Utah Jazz   64-18   .781
+2006    Detroit Pistons 64-18   .781
+1965    Boston Celtics  62-18   .775

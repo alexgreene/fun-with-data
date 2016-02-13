@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+
+* {
+  margin: 0;
+}
+
+header h1 {
+  text-align: center;
+}
+
+header {
+  background-color: whitesmoke;
+  padding: 15px;
+  border-bottom: thick solid mediumaquamarine;
+}
+
+footer {
+  margin-top: 100px;
+  background-color: whitesmoke;
+  padding: 5px;
+  border-top: thick solid orange;
+  text-align: center;
+}
+
+body {
+  font-family: 'Inconsolata';
+  font: 10px;
+}
+
+.note {
+  background-color: whitesmoke;
+  border-left: thick solid orange;
+  padding: 5px;
+  width: 80%;
+  margin:auto;
+  margin-top: 15px;
+}
