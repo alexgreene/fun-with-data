@@ -622,5 +622,77 @@ var _2016_warriors = [
     "L": 4,
     "Streak": "W 11",
     "Notes": 0
+  },
+  {
+    "G": 53,
+    "Date": "Fri Feb 19 2016",
+    "": 0,
+    "Opponent": "Portland Trail Blazers",
+    "Tm": 105,
+    "Opp": 137,
+    "W": 48,
+    "L": 5,
+    "Streak": "L 1",
+    "Notes": 0
+  },
+  {
+    "G": 54,
+    "Date": "Sat Feb 20 2016",
+    "": 0,
+    "Opponent": "Los Angeles Clippers",
+    "Tm": 115,
+    "Opp": 112,
+    "W": 49,
+    "L": 5,
+    "Streak": "W 1",
+    "Notes": 0
+  },
+  {
+    "G": 55,
+    "Date": "Mon Feb 22 2016",
+    "": 0,
+    "Opponent": "Atlanta Hawks",
+    "Tm": 102,
+    "Opp": 92,
+    "W": 50,
+    "L": 5,
+    "Streak": "W 2",
+    "Notes": 0
+  },
+  {
+    "G": 56,
+    "Date": "Wed Feb 24 2016",
+    "": 0,
+    "Opponent": "Miami Heat",
+    "Tm": 118,
+    "Opp": 112,
+    "W": 51,
+    "L": 5,
+    "Streak": "W 3",
+    "Notes": 0
+  },
+  {
+    "G": 57,
+    "Date": "Thu Feb 25 2016",
+    "": 0,
+    "Opponent": "Orlando Magic",
+    "Tm": 130,
+    "Opp": 114,
+    "W": 52,
+    "L": 5,
+    "Streak": "W 4",
+    "Notes": 0
+  },
+  {
+    "G": 58,
+    "Date": "Sat Feb 27 2016",
+    "": "OT",
+    "Opponent": "Oklahoma City Thunder",
+    "Tm": 121,
+    "Opp": 118,
+    "W": 53,
+    "L": 5,
+    "Streak": "W 5",
+    "Notes": 0
   }
 ]
