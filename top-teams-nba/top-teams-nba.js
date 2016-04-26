@@ -24,7 +24,7 @@ var top_teams = [
     {   label: "1997 Bulls",    x: _.pluck(_1997_bulls, 'G'),    y: _.pluck(_1997_bulls, 'L'),    },
     {   label: "1972 Lakers",    x: _.pluck(_1972_lakers, 'G'),    y: _.pluck(_1972_lakers, 'L'),    },
     {   label: "1996 Bulls",    x: _.pluck(_1996_bulls, 'G'),    y: _.pluck(_1996_bulls, 'L'),    },
-    {   label: "2016 Warriors *",    x: _.pluck(_2016_warriors, 'G'),    y: _.pluck(_2016_warriors, 'L'),    },
+    {   label: "2016 Warriors",    x: _.pluck(_2016_warriors, 'G'),    y: _.pluck(_2016_warriors, 'L'),    },
 ];
 
 var svg = d3.select("#chart").append("svg").datum(top_teams).call( top_teams_chart() ) ;
