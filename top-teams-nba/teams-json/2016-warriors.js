@@ -886,5 +886,101 @@ var _2016_warriors = [
     "L": 7,
     "Streak": "W 5",
     "Notes": 0
+  },
+  {
+    "G": 75,
+    "Date": "Wed Mar 30 2016",
+    "": "OT",
+    "Opponent": "Utah Jazz",
+    "Tm": 103,
+    "Opp": 96,
+    "W": 68,
+    "L": 7,
+    "Streak": "W 6",
+    "Notes": 0
+  },
+  {
+    "G": 76,
+    "Date": "Fri Apr 1 2016",
+    "": 0,
+    "Opponent": "Boston Celtics",
+    "Tm": 106,
+    "Opp": 109,
+    "W": 68,
+    "L": 8,
+    "Streak": "L 1",
+    "Notes": 0
+  },
+  {
+    "G": 77,
+    "Date": "Sun Apr 3 2016",
+    "": 0,
+    "Opponent": "Portland Trail Blazers",
+    "Tm": 136,
+    "Opp": 111,
+    "W": 69,
+    "L": 8,
+    "Streak": "W 1",
+    "Notes": 0
+  },
+  {
+    "G": 78,
+    "Date": "Tue Apr 5 2016",
+    "": "OT",
+    "Opponent": "Minnesota Timberwolves",
+    "Tm": 117,
+    "Opp": 124,
+    "W": 69,
+    "L": 9,
+    "Streak": "L 1",
+    "Notes": 0
+  },
+  {
+    "G": 79,
+    "Date": "Thu Apr 7 2016",
+    "": 0,
+    "Opponent": "San Antonio Spurs",
+    "Tm": 112,
+    "Opp": 101,
+    "W": 70,
+    "L": 9,
+    "Streak": "W 1",
+    "Notes": 0
+  },
+  {
+    "G": 80,
+    "Date": "Sat Apr 9 2016",
+    "": 0,
+    "Opponent": "Memphis Grizzlies",
+    "Tm": 100,
+    "Opp": 99,
+    "W": 71,
+    "L": 9,
+    "Streak": "W 2",
+    "Notes": 0
+  },
+  {
+    "G": 81,
+    "Date": "Sun Apr 10 2016",
+    "": 0,
+    "Opponent": "San Antonio Spurs",
+    "Tm": 92,
+    "Opp": 86,
+    "W": 72,
+    "L": 9,
+    "Streak": "W 3",
+    "Notes": 0
+  },
+  {
+    "G": 82,
+    "Date": "Wed Apr 13 2016",
+    "": 0,
+    "Opponent": "Memphis Grizzlies",
+    "Tm": 125,
+    "Opp": 104,
+    "W": 73,
+    "L": 9,
+    "Streak": "W 4",
+    "Notes": 0
   }
 ]
